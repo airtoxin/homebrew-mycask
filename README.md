@@ -8,13 +8,13 @@ project.
 After you install homebrew-cask, run the following command:
 
 ```sh
-$ brew tap sonots/mycask
+$ brew tap airtoxin/mycask
 ```
 
 You can now install alternate versions of Casks.
 
 ```sh
-$ brew cask install gyazo
+$ brew cask install nuwk
 ```
 
 ## License
